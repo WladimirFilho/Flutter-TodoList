@@ -1,10 +1,17 @@
-# todo_list
+# To-Do List Application
 
-A new Flutter project.
+This is a simple to-do list application developed using Dart and Flutter. The application uses Hive
+as a local database to store and manage the user's tasks.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+
+To run this application, you will need to have the following installed on your local machine:
+
+- Dart
+- Flutter
+- Hive
 
 A few resources to get you started if this is your first Flutter project:
 
